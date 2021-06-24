@@ -33,3 +33,6 @@ https://www.youtube.com/c/ESPN/live
 
 iNews | Indonesia | https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png | 
 https://www.youtube.com/c/OfficialiNews/live
+
+TransTV | Indonesia | https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/709px-Trans_TV_2013.svg.png | 
+https://www.youtube.com/c/TRANSTVofficial/live
