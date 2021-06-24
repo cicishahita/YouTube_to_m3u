@@ -30,3 +30,6 @@ https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw/live
 
 ESPN | English | https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png | 
 https://www.youtube.com/c/ESPN/live
+
+iNews | Indonesia | https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png | 
+https://www.youtube.com/c/OfficialiNews/live
