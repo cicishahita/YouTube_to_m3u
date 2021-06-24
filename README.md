@@ -9,8 +9,6 @@ Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
 ### Add more channels
 Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
 
-Create a pull request or connect: https://discord.gg/dmgYmAEdee
-
 ### Usage
 Paste this URL: `https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
 
