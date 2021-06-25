@@ -39,3 +39,7 @@ https://www.youtube.com/channel/UCos52azQNBgW63_9uDJoPDA/live
 
 NDTV | English | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/1920px-NDTV_logo.svg.png | 
 https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
+
+Al Jazeera | English | https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/800px-Aljazeera.svg.png | 
+https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
+
