@@ -12,28 +12,28 @@
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943147/ei/S6A3ZoLeMYOJkucPx7OW6Aw/ip/40.84.4.249/id/gN0PZCe-kwQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7c0_hAqcypgQ6nmrk0HxKA_NOywo_o-_d7Gg_w03KgnJ5HChdrwStjw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ5ECjc9kjpjQHoudci7-Pp5fItitNXMWRucQDyfxopqAiBSrkuJJ1L8UUJBPkOwk-bEtgUDyVmbSyochtvxsGRcDg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/bRy5mAV3W-8SfwjLeu3Cgz_XVXx6fYF1SDrELnKgSJ0F8zncegBfGyW9SUV9MqeesDJTWRBLkg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Ahmad Zainuddin Al Banjary
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/800px-Aljazeera.svg.png" tvg-id="", Al Jazeera
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943149/ei/TaA3ZuomsqiS5w-4-piYCA/ip/40.84.4.249/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyXK2ztKGyLHLlcJG4xQxbBbLEeXX4yLQdeh0SV6H2HwS-xEMg5xR-sZ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJLNNISyPiJeidlicdAU9mP0W1pFXPBa2lh_Ke1IfpxaAiAcygYmiMA8JIJvEVM7-6CQ7vsjlpPE96jmCQhKVuvFxQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://i.pinimg.com/736x/fb/5f/56/fb5f56af22cfc89b68dc3d36ac7357f1.jpg" tvg-id="", Al-Qur'an Al-Kareem TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943149/ei/TaA3ZoitMM2LkucP6YaeWA/ip/40.84.4.249/id/moQtMet7F7w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3edLhk4cck70q0KUuiKpI30inwHtHJ1gxSucHNVzdb7Dg9Tv5JUz5FX/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJmneqIzYcDjE2nwi_e7oEuHxAvql7GaZp0G-V9fxjAKAiEA1Ozlk1vwYZJwOX5Bg_X_V-scD--mZpleKS93tYu_Wu0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CNA
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943150/ei/TqA3Zr7XFtigkucPl_qZSA/ip/40.84.4.249/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0zodQYMmyifSx-P2YJZAgN5Roeikp5_qRnpNi0-l_0kB3OW27TToA1W/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfmjkvFMXwC8Y9Lh2KEiQyCGF0LcYjlaDC-WPaKwN_DcCIQDY8LjMGdZ0I6lXCud9OwElVfClMz_5KI-3qCpWC_YKSw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://firanda.com/wp-content/uploads/2018/10/logo-ufa.png" tvg-id="", Firanda Andirja
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" tvg-id="", France 24
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943151/ei/T6A3ZqHUIfWWkucP45CV0Ao/ip/40.84.4.249/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166970/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANP0ER4hjtbUVLAKyrPXJoLyNPboS-QVadOSKPGlxfrcAiEA3xsemyS768IZHrWQh1QV4QY0QeNm0A7ceo-Xu2cWUxY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbDvoGcSeUHnMqBgCIS-LZrTJOOBcAAbmU51s-=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Gazwah TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943152/ei/UKA3Zq3iENCgkucPv6Gr2Aw/ip/40.84.4.249/id/dPRdBbsBy98.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0PWGD-WCqNvuraV22Q05WvoEEbOTbP6hfGeFypOjkXtSpGtnCxFF10B/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcYk-YjJgYms09tDduiWZTwsfXl6o2EOdGtK8Z2UIqnwCIFK9I525g-JknSRwHx6lddzm5Ax-McEz0S5ziyWuRHyb/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" tvg-id="", ESPN
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -42,43 +42,43 @@ https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_n
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" tvg-id="", iNews
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943153/ei/UaA3ZvSkNbCVkucPyPSO6Ag/ip/40.84.4.249/id/prdia0DlLK4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f62PmoVa4q1SJ9TLsHnQDUabljs3JIEwT3A55-47ZrYZoOApPUml0Q74/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQf7pNwi2QqmOK6Es42glGeFcsoaKAoePE1fJOXmSSLgCIDOWUXzne5yhTi4reL5LP8UTGMSUMft_O_3A6YS5CME5/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWpyN9x0xFfmL34vEMzN5fgvgHK-xw50A-Dlfxlg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Khalid Basalamah
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943154/ei/UqA3ZvqXJ4GikucP0bKrUA/ip/40.84.4.249/id/tH-HlZrAKRw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5p8tQKsg7Eu_NYceigPi6ye69DWain5LRkvqMqF-6zq2hEa06uV0zAg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP9rbkcMhTYvW-4ttD35ZLh21ix6cilhT0HWbeUeBdrZAiEAxAzVsyanX6mIruiua8FL6qpkJcPpDlchv46zYvJNl8k%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" tvg-id="", Kompas TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943155/ei/U6A3ZqXKDNKfkucPp_iGIA/ip/40.84.4.249/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8tU-hhIxqBMM8lV-Rwy9CEP9yhbzkmGL0PpUi60s7LwQN5z-b6BywnG/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ4r6wvqrzOBE8UXb9W_dhMp_8GSZZqz-d8t5EtYvNDeAiEAwE9tABosksaS2ypep48qsZJqUYm7EjiADLt97R0HHPg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6vCt7w4mOtpfn7dGVmobtUEuwBJdvlvBXGTr_iw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Learn English
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943155/ei/U6A3ZraTMO2zkucPlqizwAU/ip/40.84.4.249/id/wpCs-6xU578.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6j1h3QLP8maML-Ll1RUnzRdXlpgPzt9obYIUmH38JANknz1Lyq6zj3Z/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKgUircnXX3MikwqZMC-H1NJZLVVL8_RhhMOI1_OF_mfAiA2gCeTan6_SFpFnt0YyNe-g8wPJWtoCd6ZhVQ-73gSuQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/_4dCoRviXAgeiMdwyXqffDZS7IEUZTK959-Pe5lP3N_o1k4W5Xo4T1E9XK00bIXUViPinpGGvg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Media Sunnah Aceh TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943156/ei/VKA3Zou3GsGKkucP76eegAg/ip/40.84.4.249/id/Tj0YMOW3N7o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLNeq1hh25kCLj8yN2E1pUmiebHpPkIPDGT9WEUHw7wcCIF3weU-Ije1D4PiHGXIZ_qtzg18rpoqfJyE0XYVgSrdO/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7fi8QmjjeQaa3AE9pUyKmRwiiEi4hooCYt-2OTRc=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Metro TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943157/ei/VaA3ZoD7AfipkucPzK2cmAc/ip/40.84.4.249/id/8tNuHijFEQA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166972/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1VJMLh2BdExlpkCEL3REL2B-GqR6-NI4K26Im7UDN8QWkdba-2bGAg8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVFMribEiVE97beK-N5xP6kHiUoqNytCFbgK4zVOWBcQCIEUAvB5DEM3my2My3v6tf7wF7MJ9l88-6U-zv5S137iE/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", NASA
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943157/ei/VaA3ZouoJcaKkucP_MmL4AQ/ip/40.84.4.249/id/jPTD2gnZFUw.400/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYoZ9CMNQSJwHSaEvBDIhIJ9Ae-KGtMFqpFFIgt_JOcQCIEEN8YTW0iHX4u8KtQzmtmeZUnTrJF-rd786vrldSDsl/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGnIRaclE5FRNiD5lLG8EZuHivkPx0ynoD_T6gifA=s88-c-k-c0x00ffffff-no-rj" tvg-id="", NBC News
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqjeNtUoyoyetMVTxNwsOAXxrZvH3iNf8OZqvZ=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Net TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943159/ei/VqA3Zq6DOZih0_wPnKK-qA4/ip/40.84.4.249/id/Vur6WLoMUwE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f2d_Tv1uRWcgtOywWpALwvgAf7cJOQzYs1XlRf40mFvNb61QlZBLVRk8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgb-ZFNr-2PfgqwT3ycg9RzKqwL7lCat_yaTpGNX9Xq8sCICQZI0_Z9HAEoi9-Xj-tdgtT2_NY5oDfSBKs1RxENtVH/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ5d06ZDmilQvdutCIHed0_kPY2t53DbN_OgYPeuA=s88-c-k-c0x00ffffff-no-rj" tvg-id="", NintendoMovies
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943160/ei/WKA3Zt1-yrWS5w-S2pvQDQ/ip/40.84.4.249/id/QqH3vGLaPOg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKajiOvVvvN4-9BwL5q0-9xH_ZqE8EAebVcUT3xGE3-LAiBSyy3E8gNDMY4vsYSBVW7xkvTvSrxyhyQlwoOvirRk4w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTPbEXxgeS-O3QrDRoEQVHmq6C36oCKI1AMWOIrxQ=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Oddbods
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943160/ei/WKA3ZtqHIuiykucP_OyfqAE/ip/40.84.4.249/id/5W4_Ak3Bs_M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8H0IM280fYhfFIxojIkpj5MBhxAn7xLmawKsPw3JvuglpmfhaPLeZ_C/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPdHEjwP6kqLxpnTzMBfYFA9vVDre9IKJ-sNjuFbetWuAiEAtQdsBDFdQ0YgRx2G7B7PKVnntHF8xzk8BH-NqsJHbiM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/5ImjqW3QeipmEyM8sCtOXJa-Oo-clfsQj8T1OWmU6JOlJ0kwRddYJeeGlf3dFDqPOTV3U5G4Ug=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Relaxing Nature in 4k
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943161/ei/WaA3ZqHjDLLAj-8P3eSi2Aw/ip/40.84.4.249/id/ApuRXZkcNLw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2hPoTdGCIhUJlyIYxIpsdzjhpJU57RwfLTsHjMaDitB1occkUJYa7l-/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALaNa-mTa_EEf7eCeIJBxfct5jmhBoa0Qs8YppfkgRWIAiBk1lsaKe6qSov4vNYut0wBcJUZ3UyG-Rj9r2tBB7Qv8w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.rifqan.tv/wp-content/uploads/2018/09/sosmed-rifqan-tv-logo-putih-Copy.jpg" tvg-id="", Rifqan TV
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -90,22 +90,22 @@ https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_n
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_News_logo_2021.png/799px-Sky_News_logo_2021.png" tvg-id="", Sky News
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943163/ei/W6A3ZrH-BeeUkucP34mi6Ao/ip/40.84.4.249/id/w9uJg68CV4g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9fwU2PAw_Ekva4zJAVvJyFG0KWjYIimsxbbmUrxEAY9EhL2x2JA0VpUbh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgH3Abtn9-DzJCGjiqB34Vx6xuITsoUBEKKAZprVTRACcCIGE4Q2Yz7HgGKo4LZo4H0il4DHaWeuJGWX0heVjSdMXj/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3uHlD-z_JoaGtAPHXtrbd66fa0a9q8A3w1giLbA=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Space Videos
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943163/ei/W6A3ZvLkMa-pkucPrPqWsAE/ip/40.84.4.249/id/lx2CNP7kwhI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_kweJKA5QEhRrF6_eEFPt_VeCY5MTpiBpIiLjNuIlLOoFTrAML6BRkc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgB0ocdi6gclpkqDUReMLz93pj95l41V-KG5rDlb0PMkACIF51QdTNXOYWjhaH4kOB1VjF3YJF4Tr9zYuk1t9XovXt/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/VzpDd362KZfDi-ISzI0rtdwlfkcfYYj-707Pwsyf1jufdLH-vn2w_cIHcZTMxEhbePSqsLug5Hc=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Starry Sky
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943164/ei/XKA3ZsmQGK2BkucPsfmwgAg/ip/40.84.4.249/id/e210vGiscpE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166972/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f3Ht3Nm4-JaGtAX4uapICaQNZz6BFjIGfBt_ziEqM6KrrPWwERkx0u-0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYKBJK7dNn5pN6dDo2vEfaQaXcV3cUhN8r_auscyCut0CIElRLyRqUM6j1Qhn74ilGrUpSVCNbmkJ7F364fG6x6Nj/file/index.m3u8
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLToC7pGyw6HoAoVWw_-zbGNKbZFQ6aYe1YenXyelg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Surabaya Mengaji
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTLnuspPMvNR0c8BKi8XyKSURcds3PSC5n0k8ChWw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Tarbiyah Sunnah Channel
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943166/ei/XqA3ZvrqD6KBkucPjqariAg/ip/40.84.4.249/id/ocukiR8pVqk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f07aBmRNdQpv0eiBHsbGaBUB_hdWSe9NHDvHkpKwf5TESh1plpX50DaZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgclwuLJBo9ojN2qIwuOklTtaG6rx0goiQJ8aWbAMXwlMCIQDsA0QG9GoF6eOBynXvlvRiwyiIurBL97_D7DqeXAwUWQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/709px-Trans_TV_2013.svg.png" tvg-id="", TransTV
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/640px-TvOne_logo_2012.svg.png" tvg-id="", tvOne
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714943167/ei/X6A3ZquiF4qIkucP0J-z2As/ip/40.84.4.249/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0MZ5Y5FWBurhD8_kai7Kaud0AR_m7fG9SvfcKZE6CYVsmL9u9vmc1cG/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANVXxN2gp7HhlV8ila1KGeda68Se48ohsvMMhq65cHQBAiEA5h_6tsJf9RbGuSytdzTB9ZtbdZCIAivE7TLDyDcIqFM%3D/file/index.m3u8
