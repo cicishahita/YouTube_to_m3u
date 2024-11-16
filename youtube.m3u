@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_n
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7fi8QmjjeQaa3AE9pUyKmRwiiEi4hooCYt-2OTRc=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Metro TV
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731780880/ei/sIw4Z47SJoLdybgP16KTuQI/ip/172.183.91.15/id/fC13BoOeVwA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337701/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfN9MRYhKulG3-TyDItYrl9ZqzxBmNHzoL8K739lU7GX_f1OYve8LE3p0SA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJnttHu9hGep8Z2Fqa-s0Ta74ji8R-qkcf8lb5rN4wwIAiEA5nat_cpAeE1MMt0vMD70g8vHF0HqGiG4hQgWaX7vg7Q%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", NASA
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
