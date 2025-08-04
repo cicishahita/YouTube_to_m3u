@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_n
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Islam" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWpyN9x0xFfmL34vEMzN5fgvgHK-xw50A-Dlfxlg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Khalid Basalamah
-https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754341930/ei/ys2QaMuXFcWM2_gP6dfvuQM/ip/172.212.171.149/id/Me04WYTpBOI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNgvrH5im0B-DSVSJG4-7I6eailqlK1CHVRl55pVVXj9mX_qwo01lnyC_lCy5zMa7MJz2Kz47CY/spc/l3OVKbey-wRM3kLlrxOv5u1-G-VB58d2lMIuvVknvZxiYySPpDKw5vRgz1fNkW1Eru0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgD4wmwKtN8z_B8vvTYwdUqvdcBFAp8knumCbabr6jVi4CIHVSxh4HZMbjzkYDtA9JoB_7infJi0ptHxfpNgvfB8jT/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" tvg-id="", Kompas TV
 https://raw.githubusercontent.com/cicishahita/YouTube_to_m3u/main/assets/moose_na.m3u
